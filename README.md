@@ -40,15 +40,7 @@ python drug_repositioning.py --sig_info PATH_TO_SIGINFO --gene_info PATH_TO_GENE
 - `--output`: Filename for the output CSV containing repositioned drugs.
 - `--cell`: Cell line to be analyzed.
 
-## Contributing
 
-Contributions to this project are welcome. You can contribute by:
-
-- Reporting a bug
-- Discussing the current state of the code
-- Submitting a fix
-- Proposing new features
-- Becoming a maintainer
 
 ## License
 
@@ -56,7 +48,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name – Your Email
+Hengxin Pan – pan.h@wehi.edu.au
 
-Project Link: https://github.com/yourusername/yourrepositoryname
 
